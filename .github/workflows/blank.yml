@@ -1,0 +1,58 @@
+# temp more than 36 degree
+#They found that in the normal population, type A was 31 percent, 
+# type B was 24 percent, 
+# type AB was 9 percent,
+# and type O was 34 percent.
+# that the SpO2 reading stays consistently at or above 90 to 92%. If the number consistently drops below this threshold, timely medical evaluation is warranted.
+#your chances of having the deisease
+
+temp = int(input("enter your temprature(in degrees): "))
+blood_type = input('enter your blood type (in uppercase): ')
+SPO2_level = int(input('enter you spo2 level in percentage: '))
+
+def temprature(x):
+    if temp > 36:
+        print("go to a doctor for a corona test")
+    elif temp < 36:
+        print("your temprature is lower than usual make a doctors appointment")
+    else:
+        print("you are healthy")
+    return x
+
+
+def b_type(y):
+    if blood_type == 'A':
+        print("you have higer chances of corona to about 31 percent as per reports")
+    elif blood_type == 'B':
+        print(' the chances are less but not quite less it is about 24 percent')
+    elif blood_type == 'AB':
+        print('the chances are the lowest which is 9 percent')
+    elif blood_type == 'O':
+        print('you have the highest risk of corona with a percentage of 34')
+    return y
+
+def spo_decider(z):
+    if SPO2_level > 90 and SPO2_level < 92:
+        print("your SPO2 level is quite normal")
+    else:
+        print("you have an abnormal SPO2 level")
+    return z
+def corona_check(x,y,z):
+        if  not (SPO2_level > 90 and SPO2_level < 92):
+            if blood_type == 'O':
+                if temp > 36:
+                    print('you have the most chances of corona virus kindly visit the doctor')
+        return x,y,z
+print("===========================================")
+print(corona_check(SPO2_level, temp, blood_type))
+print("===========================================")
+print("===========================================")
+print('Here ere are your reports in detail:')
+print("===========================================")
+print(temprature(temp))
+print(b_type(blood_type))
+print(spo_decider(SPO2_level))
+print("===========================================")
+print('MAKE SURE TO DOWNLOAD THE AROGYA SETU APP')
+print("Wear Mask In Public")
+print("===========================================")
