@@ -1,1 +1,30 @@
+a) Creating account: -
+Step1: - Search Github on Google and click on the official link of
+Github.
 
+Step 2: Click on the sign up button to create an account on Github.
+
+Step 3: When you click on the signup button you will reach on this page
+here you have to fill all necessary information which is star marked.
+
+Step 4: After fill all the information verify your account and click on the
+Create Account button. Now your account is created.
+
+b) Creating repository:
+Step 1: To create repository click create repository
+
+Step 2 : After clicking on the create a repository you reach on this page here
+you have to give your Repository name, click on the private or public button.
+And then last create repository
+
+c) Cloning repository:
+After clicking on the create repository button you will reach on this page
+On GitHub, navigate to the main page of the repository.
+
+Above the list of files, click "Code" button
+
+To clone the repository using HTTPS, under "Clone with
+HTTPS", click . To clone the repository using an SSH key,
+including a certificate issued by your organization's SSH
+certificate authority, click Use SSH, then click . To clone a
+repository using GitHub CLI, click Use GitHub CLI, then click
