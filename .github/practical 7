@@ -1,3 +1,30 @@
+PRACTICAL:-7
+Implementing coding practice in python using
+PEP8.
+
+It gets difficult to understand a messed up handwriting, similarly an unreadable and
+unstructured code is not accepted by all. However, you can benefit as a programmer only
+when you can express better with your code. This is where PEP comes to the rescue.
+Python Enhancement Proposal or PEP is a design document which provides information to
+the Python community and also describes new features and document aspects, such as style
+and design for Python.
+Python is a multi-paradigm programming language which is easy to learn and has gained
+popularity in the fields of Data Science and Web Development over a few years and PEP 8 is
+called the style code of Python. It was written by Guido van Rossum, Barry Warsaw, and
+Nick Coghlan in the year 2001. It focuses on enhancing Python’s code readability and
+consistency. Join the certification course on Python Programming and gain skills and
+knowledge about various features of Python along with tips and tricks.
+
+
+
+
+
+
+
+
+
+
+
 # temp more than 36 degree
 #They found that in the normal population, type A was 31 percent, 
 # type B was 24 percent, 
