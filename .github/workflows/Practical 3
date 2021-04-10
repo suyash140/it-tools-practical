@@ -1,1 +1,83 @@
 
+a) Describe open Source software with Example. 
+Ans:- 
+Open source software is software with source code that anyone can 
+inspect, modify, and enhance. 
+"Source code" is the part of software that most computer users don't 
+ever see; it's the code computer programmers can manipulate to 
+change how a piece of software—a "program" or "application"—
+works. Programmers who have access to a computer program's source 
+code can improve that program by adding features to it or fixing parts 
+that don't always work correctly. 
+Example:- 
+Firefox—a Web browser that competes with Internet Explorer 
+OpenOffice—a competitor to Microsoft Office 
+Gimp—a graphic tool with features found in Photoshop 
+Alfresco—collaboration software that competes with Microsoft Sharepoint and EMC’s
+Documentum 
+Marketcetera—an enterprise trading platform for hedge fund managers that competes 
+with FlexTrade and Portware 
+Zimbra—open source e-mail software that competes with Outlook server 
+MySQL, Ingres, and EnterpriseDB—open source database software packages that each go 
+head-to-head with commercial products from Oracle, Microsoft, Sybase, and IBM 
+SugarCRM—customer relationship management software that competes with 
+Salesforce.com and Siebel 
+Asterix—an open source implementation for running a PBX corporate telephony system 
+that competes with offerings from Nortel and Cisco, among others 
+Free BSD and Sun’s OpenSolaris—open source versions of the Unix operating system
+
+b)Describe Free software with example. 
+Ans:- 
+“Free software” means software that respects users' freedom and community. Roughly, it 
+means that the users have the freedom to run, copy, distribute, study, change and improve 
+the software. Thus, “free software” is a matter of liberty, not price. To understand the 
+concept, you should think of “free” as in “free speech,” not as in “free beer”. We
+sometimes call it “libre software,” borrowing the French or Spanish word for “free” as in
+freedom, to show we do not mean the software is gratis. 
+We campaign for these freedoms because everyone deserves them. With these freedoms, 
+the users (both individually and collectively) control the program and what it does for 
+them. When users don't control the program, we call it a “nonfree” or “proprietary”
+program. The nonfree program controls the users, and the developer controls the 
+program; 
+Example:- 
+free software covers just about every field of computer applications. Because of their high 
+quality and openness, several free software programs have become leaders in their field 
+or comprise the core of of an entire industry. Here is a short list of free software headline 
+acts : 
+The Linux kernel, of course! The Linux kernel is protected by the GPL, and is used daily by 
+millions of people throughout the world. As the kernel, it is one of the most important 
+components of the GNU system ; 
+Apache, the most widely used web server in the world. More than 56% of the web servers 
+on this planet use Apache; far more than its fierce competitors, Microsoft and Netscape ; 
+The Gimp is a powerful bitmap mode digital creation program. In spite of being relatively 
+new, The Gimp has rapidly become serious competition for Photoshop ; 
+PostgreSQL is an object-relational database. It is currently the most sophisticated free 
+software database available.
+
+c) Difference between free and open source software. 
+Ans:- 
+Difference between Free Software and Open Source Software 
+Free Software: 
+“Free software” means software that respects users’ freedom and community.
+Roughly, it means that the users have the freedom to run, copy, distribute, study, 
+change and improve the software. 
+The term “free software” is sometimes misunderstood—it has nothing to do with 
+price. It is about freedom. 
+Open Source Software : 
+Open Source Software is something which you can modify as per your needs, share 
+with others without any licensing violation burden. When we say Open Source, source 
+code of software is available publicly with Open Source licenses like GNU (GPL) which 
+allows you to edit source code and distribute it. Read these licenses and you will realize
+that these licenses are created to help us. 
+Coined by the development environments around software produced by open 
+collaboration of software developers on the internet. 
+Later specified by the Open Source Initiative (OSI). 
+It does not explicitly state ethical values, besides those directly associated to
+software development. 
+Difference between Free Software and Open Source Software: 
+Free software = Free software usually refers open source under GNU GPL license. At 
+least the original term by Richard Stallman did. He meant free as in freedom . Because the
+word free in English mean without cost the team open source was created. To hint toward 
+the collaborative development effort ,not the price to acquire something. 
+Open source = your source code is accessible to anyone to read and modify and 
+redistribute depending on license condition
